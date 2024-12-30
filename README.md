@@ -1,3 +1,15 @@
+Could not find time to implement state management :(
+There’s no solution for refreshing the price at a given interval because the free API I chose only updates the prices every hour, making such an approach pointless.
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
